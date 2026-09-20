@@ -1,6 +1,6 @@
 # Recopy
 
-VB6 working copy of `Recopy` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: CSC.
+CSC VB6 Recursive File Copy (`Recopy.vbp`): pick a source file and destination folder, then Start copies with a progress bar (browse dialogs via CommonDialog / folder picker). Open `Recopy.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
